@@ -13,4 +13,4 @@ Link: _https://github.com/shahinvx/Titanic/_
 
 • A glimpse of the web app:
 
- ![GIF](readme_resources/diabetes-predictor-web-app.gif)
+ ![GIF](readme_resources/titanic-app.gif)
